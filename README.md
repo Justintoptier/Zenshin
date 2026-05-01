@@ -1,4 +1,5 @@
-https://github.com/Justintoptier/Zenshin/blob/main/zenshin.mp4
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/0301db99-2068-49fd-a06f-d588c93a3539" />
+
 
 <h1 align="center">⚡ Zenshin</h1>
 
@@ -32,17 +33,22 @@ https://github.com/Justintoptier/Zenshin/blob/main/zenshin.mp4
 - **Weekly Snapshot** — workouts completed, total volume lifted, best lift
 - **Quick Start** button to jump into logging
 
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b2f1c8f1-fb5b-4e1e-89cf-4569a1a349db" />
+
 ### 💪 Smart Workout Logging
 - Today's exercises auto-loaded from your **5-day split** (Push / Pull / Legs / Upper / Lower)
 - **Expandable exercise rows** — tap to add sets
 - Per-set **reps + weight** input
 - **Save** button logs directly to local SQLite database
 - Visual feedback with completion badges
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/3fec8d6d-7972-4e02-a71c-0eb426279a9e" />
 
 ### 📊 Day-by-Day Progress
 - Workouts grouped by date with **TODAY / YESTERDAY** smart labels
 - Tap any exercise to **toggle set history** (reps × weight table)
 - Auto-refreshes when switching tabs
+  <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/1995ed96-dad9-4f2f-a827-6a23880171f8" />
+
 
 ### 👤 Creative Profile
 - **Gradient avatar ring** (green → cyan → lime)
