@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Zenshin",
+    "slug": "zenshin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "zenshin",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.justintoptier.zenshin"
+    },
+    "android": {
+      "package": "com.justintoptier.zenshin",
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0e17",
+        "foregroundImage": "./assets/images/android-icon-foreground.png"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/icon.png"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#0a0e17",
+          "dark": {
+            "backgroundColor": "#0a0e17"
+          }
+        }
+      ],
+      "expo-sqlite"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8b6e8573-7d23-4757-9be9-73a7615fc3e1"
+      }
+    }
+  }
+}
