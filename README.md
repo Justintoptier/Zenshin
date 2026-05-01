@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/images/banner.png" alt="Zenshin Banner" width="100%" />
-</p>
+https://github.com/Justintoptier/Zenshin/blob/main/zenshin.mp4
 
 <h1 align="center">⚡ Zenshin</h1>
 
